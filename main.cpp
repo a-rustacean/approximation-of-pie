@@ -1,8 +1,7 @@
 #include <cstdlib>
 #include <iostream>
 
-using std::cout;
-using std::endl;
+using namespace std;
 
 double len(double x, double y) {
   return sqrt(x * x + y * y);
